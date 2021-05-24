@@ -26,7 +26,7 @@
 [<img align="left" alt="Gatsby" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" />][webdevplaylist]
-
+<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 <br />
 <br />
 
