@@ -31,7 +31,11 @@
 
 ---
 <div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaelGhazel&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## [![Wael's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaelGhazel&theme=dracula&hide=prs,issues,contribs)](https://github.com/WaelGhazel/WaelGhazel)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineNeifer&layout=compact&theme=dracula)](https://github.com/WaelGhazel/WaelGhazel)
+
 </div>
 
 [musifyweb]: http://www.mu-sify.tech
