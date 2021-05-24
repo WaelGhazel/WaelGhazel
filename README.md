@@ -7,7 +7,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -39,3 +38,8 @@
 
 
 [musifyweb]: http://www.mu-sify.tech
+[youtube]:https://www.youtube.com/WaelWG
+[twitter]:https://twitter.com/WGWAELWG
+[linkedin]:https://www.linkedin.com/in/wael-ghazel/
+[instagram]:https://www.instagram.com/wael_ghazel/
+[webdevplaylist]:https://github.com/WaelGhazel
