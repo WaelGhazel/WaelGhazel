@@ -34,7 +34,7 @@
 
 ## [![Wael's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaelGhazel&theme=dracula&hide=prs,issues,contribs)](https://github.com/WaelGhazel/WaelGhazel)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineNeifer&layout=compact&theme=dracula)](https://github.com/WaelGhazel/WaelGhazel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaelGhazel&layout=compact&theme=dracula)](https://github.com/WaelGhazel/WaelGhazel)
 
 </div>
 
