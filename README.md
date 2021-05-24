@@ -30,8 +30,9 @@
 <br />
 
 ---
-
+<div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaelGhazel&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 [musifyweb]: http://www.mu-sify.tech
 [youtube]:https://www.youtube.com/WaelWG
