@@ -33,15 +33,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaelGhazel&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="align:center;" src="ttps://github-readme-stats.vercel.app/api?username=WaelGhazel&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img style="align:center;" src="ttps://github-readme-stats.vercel.app/api?username=WaelGhazel&show_icons=true&theme=dracula" />
-</a>
-
-
-
 [musifyweb]: http://www.mu-sify.tech
 [youtube]:https://www.youtube.com/WaelWG
 [twitter]:https://twitter.com/WGWAELWG
