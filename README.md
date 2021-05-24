@@ -1,7 +1,7 @@
 ### Hi there, I'm Wael - I'm a Developer, and UX/UI Designer !!
 
 - 🔭 I just launched my first website: [musify][musifyweb]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Mobile development 📱
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to design and produce music
 
