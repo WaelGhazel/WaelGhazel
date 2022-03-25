@@ -690,6 +690,13 @@ section {
   line-height: 0;
 }
 
+.services .icon svg {
+  fill: #fff;
+  font-size: 27px;
+  line-height: 0;
+}
+
+
 .services .icon-box:hover .icon {
   background: #fff;
 }
@@ -697,6 +704,10 @@ section {
 .services .icon-box:hover .icon i {
   color: #e74a3b;
 }
+.services .icon-box:hover .icon svg {
+  fill: #e74a3b;
+}
+
 
 .services .title {
   margin-left: 80px;
