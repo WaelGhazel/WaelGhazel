@@ -1,6 +1,6 @@
 ### Hi there, I'm Wael - I'm a Data Analyst, Web dEVELOPER and UX/UI Designer !!
 
-- 🔭 I just earned My Google Professional Certifcate: [Google Data Analytics][musifyweb]!
+- 🔭 I just earned My Google Professional Certifcate: [Google Data Analytics][DataAnalytics]!
 - 🌱 I’m currently learning about Ai, Deep Learning & Computer Vision 📱
 - 👯 I’m looking to build my personal profile by gaining experiences and learning
 - ⚡ Fun fact: I usually get inspiration to learn at late night
