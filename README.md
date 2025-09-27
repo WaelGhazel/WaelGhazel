@@ -7,20 +7,23 @@
 
 ### Contact me:
 
-[<img align="left" alt="Wael | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-[<img align="left" alt="Wael | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
-
-<br />
+<p align="left">
+<a href="https://www.linkedin.com/in/wael-ghazel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Wael | LinkedIn" height="30" width="30"/></a>
+<a href="https://www.instagram.com/wael_ghazel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Wael | Instagram" height="30" width="30"/></a>
+</p>
 
 ### Languages & Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]   
-[<img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" />]  
-[<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" />]  
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]  
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />]  
-[<img align="left" alt="APIs" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/api/api.png" />]  
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/database/database.png" />]  
+<p align="left">
+<img align="center" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="center" alt="R" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+<img align="center" alt="PyTorch" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" />
+<img align="center" alt="TensorFlow" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" />
+<img align="center" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="center" alt="C#" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />
+<img align="center" alt="APIs" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/api/api.png" />
+<img align="center" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/database/database.png" />
+</p>
 
 <br /><br />
 
@@ -32,7 +35,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaelGhazel&layout=compact&theme=dracula)](https://github.com/WaelGhazel/WaelGhazel)
 
 </div>
-
-[youtube]:https://www.youtube.com/WaelWG  
-[linkedin]:https://www.linkedin.com/in/wael-ghazel/  
-[instagram]:https://www.instagram.com/wael_ghazel/
