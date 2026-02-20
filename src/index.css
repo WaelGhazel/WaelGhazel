@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Outfit", sans-serif;
+
+  --color-bg-dark: #050505;
+  --color-surface: #111111;
+  --color-accent: #e74a3b;
+  --color-accent-glow: rgba(231, 74, 59, 0.15);
+  --color-text-dim: #888888;
+  --color-border-glass: rgba(255, 255, 255, 0.05);
+}
+
+@layer base {
+  body {
+    @apply bg-bg-dark text-white font-sans antialiased selection:bg-accent selection:text-white;
+  }
+
+  h1, h2, h3, h4 {
+    @apply font-display tracking-tight;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-surface border border-border-glass rounded-2xl p-6 transition-all duration-300 hover:border-accent/30;
+  }
+
+  .nav-link-modern {
+    @apply flex items-center gap-3 py-3 px-4 rounded-xl text-text-dim transition-all duration-300 hover:bg-white/5 hover:text-white;
+  }
+
+  .nav-link-modern.active {
+    @apply bg-accent/10 text-accent border border-accent/20;
+  }
+
+  .section-heading {
+    @apply text-4xl md:text-5xl font-bold mb-12 flex items-center gap-4;
+  }
+
+  .section-heading::after {
+    content: '';
+    @apply h-[1px] flex-1 bg-border-glass;
+  }
+
+  .badge {
+    @apply px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest bg-white/5 border border-white/10 text-text-dim;
+  }
+
+  .btn-primary {
+    @apply px-8 py-3 rounded-full bg-accent text-white font-bold transition-all hover:scale-105 hover:shadow-[0_0_20px_rgba(231,74,59,0.4)] active:scale-95;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-bg-dark;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-white/10 rounded-full hover:bg-white/20;
+}
+
+/* Background Atmosphere */
+.atmosphere {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background: 
+    radial-gradient(circle at 0% 0%, var(--color-accent-glow) 0%, transparent 40%),
+    radial-gradient(circle at 100% 100%, rgba(231, 74, 59, 0.05) 0%, transparent 40%);
+  pointer-events: none;
+}
+

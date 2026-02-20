@@ -1,0 +1,299 @@
+{
+  "hero": {
+    "name": "Wael Ghazel",
+    "titles": [
+      "Business Analyst",
+      "AI Researcher"
+    ],
+    "statement": "AI & Data Expert | Research + Applied Engineering"
+  },
+  "sidebar": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "resume": "Resume",
+      "skills": "Skills",
+      "projects": "Projects",
+      "certifications": "Certifications",
+      "services": "Services",
+      "contact": "Contact"
+    }
+  },
+  "about": {
+    "title": "About",
+    "description": "Artificial Intelligence and Cybersecurity Researcher, with expertise in IoT and Cloud environments. Proven skills in machine learning, data analysis, and intelligent system design. Oriented towards applied and theoretical research, with the ambition to contribute to scientific advancement and the development of adaptive security solutions for distributed systems.",
+    "subtitle": "Business Analyst & AI Researcher",
+    "intro": "Here is a brief introduction about me",
+    "details": {
+      "birthday": "28 April 2000",
+      "website": "waelghazel.github.io/WaelGhazel",
+      "email": "mohammedwael.ghazel@esen.tn",
+      "age": "25",
+      "degree": "Master",
+      "phone": "+33 7 51 25 89 94",
+      "city": "Remote / International",
+      "status": "PhD Student, Full Time Employee",
+      "experience": "3+ Years"
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "technicalTitle": "Technical Proficiency",
+    "technical": [
+      {
+        "name": "Python (PyTorch, TensorFlow, Scikit-learn)",
+        "value": 95
+      },
+      {
+        "name": "AI Models (Transformers, GANs, Deep RL)",
+        "value": 90
+      },
+      {
+        "name": "NLP & LLM (RAG, Agents)",
+        "value": 88
+      },
+      {
+        "name": "Data Engineering (Talend, ETL/ELT)",
+        "value": 85
+      },
+      {
+        "name": "SQL & NoSQL Databases",
+        "value": 92
+      },
+      {
+        "name": "Software Dev (C#, Python, PHP)",
+        "value": 87
+      },
+      {
+        "name": "Data Viz (Power BI, Tableau, Matplotlib)",
+        "value": 90
+      }
+    ],
+    "knowledgeTitle": "Technologies & Tools",
+    "knowledge": [
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-learn",
+      "Pandas",
+      "Numpy",
+      "Ollama",
+      "HuggingFace",
+      "FastAPI",
+      "Django",
+      "Talend",
+      "MySQL",
+      "PostgreSQL",
+      "Power BI",
+      "MetaBase",
+      "Docker",
+      "Git",
+      "CI/CD",
+      "Azure",
+      "Cloud of Things"
+    ]
+  },
+  "resume": {
+    "title": "Resume",
+    "summary": {
+      "title": "Summary",
+      "name": "Wael Ghazel",
+      "description": "AI-driven Business Analyst and AI Researcher (PhD Student). Expertise in deep learning, cybersecurity, and data engineering. Skilled in bridging business needs with advanced technical solutions."
+    },
+    "education": {
+      "title": "Education",
+      "items": [
+        {
+          "degree": "PhD in Artificial Intelligence & Cybersecurity",
+          "date": "2025 - Present",
+          "institution": "ENSI",
+          "description": "Research focusing on adaptive security solutions for distributed systems and Cloud of Things."
+        },
+        {
+          "degree": "Master of Artificial Intelligence",
+          "date": "2022 - 2024",
+          "institution": "Higher School Of Digital Economy, Manouba",
+          "description": "Master's in Artificial Intelligence (Research) with a focus on optimization, deep learning, and reinforcement learning."
+        },
+        {
+          "degree": "Bachelor of Business Intelligence",
+          "date": "2019 - 2022",
+          "institution": "Higher School Of Digital Economy, Manouba",
+          "description": "Specialization in data analytics and business intelligence."
+        }
+      ]
+    },
+    "experience": {
+      "title": "Professional Experience",
+      "items": [
+        {
+          "title": "Business Analyst",
+          "date": "Jun 2023 - Present",
+          "company": "Neoledge, Lille, FR (Remote)",
+          "bullets": [
+            "Providing expertise and cost estimation for processing requirements.",
+            "Creating automation tools in C#.",
+            "Developing and managing API connections between company products and partner systems.",
+            "Testing new product extensions to ensure quality and proper functioning.",
+            "Configuring the product according to client requirements.",
+            "Managing and maintaining the product.",
+            "Assisting clients by diagnosing, debugging, and resolving issues.",
+            "Creating dashboards to support clients in informed decision-making.",
+            "Working with databases for data management and optimization.",
+            "Developing LLM- and RAG-based solutions for automated extraction and generation of business documents."
+          ]
+        },
+        {
+          "title": "Business Intelligence Intern",
+          "date": "Feb 2022 - May 2022",
+          "company": "MEDIANET, Ariana, TN",
+          "bullets": [
+            "Designing a data warehouse and developing ETL pipelines to consolidate multiple data sources.",
+            "Developing BI tools to track and manage team projects with dynamic dashboards.",
+            "Automating data collection, cleaning, and preparation scripts with Python."
+          ]
+        }
+      ]
+    },
+    "download": {
+      "en": "Download CV (English PDF)",
+      "fr": "Télécharger CV (French PDF)"
+    }
+  },
+  "certifications": {
+    "title": "Certifications",
+    "items": [
+      {
+        "title": "Mining Quality Prediction Using Machine & Deep Learning",
+        "issuer": "Coursera",
+        "date": "Oct 2022",
+        "link": "https://coursera.org/verify/QEDAW9B7UH2N"
+      },
+      {
+        "title": "Mastering Data Analysis with Pandas",
+        "issuer": "Coursera",
+        "date": "Oct 2022",
+        "link": "https://coursera.org/verify/BN7SAED5PTB6"
+      },
+      {
+        "title": "Python for Data Visualization: Matplotlib & Seaborn",
+        "issuer": "Coursera",
+        "date": "Oct 2022",
+        "link": "https://coursera.org/verify/ZVEWP2VB5NGQ"
+      },
+      {
+        "title": "Deep Learning Specialization",
+        "issuer": "Coursera (DeepLearning.AI)",
+        "date": "In Progress",
+        "link": "https://coursera.org/verify/RZY7RXZ2KF27",
+        "details": "Neural Networks and Deep Learning"
+      },
+      {
+        "title": "Google Data Analytics Professional Certificate",
+        "issuer": "Google",
+        "date": "Mar 2022",
+        "link": "https://coursera.org/verify/professional-cert/EPV3LFNBUEL6"
+      },
+      {
+        "title": "The Fundamentals Of Digital Marketing",
+        "issuer": "Google",
+        "date": "Oct 2021",
+        "link": "https://learndigital.withgoogle.com/link/1qsdpcedm9s"
+      },
+      {
+        "title": "C for Everyone: Programming Fundamentals",
+        "issuer": "Coursera",
+        "date": "Sep 2020",
+        "link": "https://www.coursera.org/verify/A57V7B8DTRR9"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "items": [
+      {
+        "title": "TalentParse",
+        "description": "AI-powered web application for intelligent recruitment. Extracts key info from CVs using Gemma3 (Ollama) for scoring and matching.",
+        "tech": [
+          "Gemma3",
+          "Ollama",
+          "OCR",
+          "Python"
+        ],
+        "link": "https://github.com/WaelGhazel/TalentParse",
+        "img": "/img/TalentParse.png"
+      },
+      {
+        "title": "AE-RAE",
+        "description": "Hybrid AI security model combining Autoencoders and Reinforced Autoencoders for 0-day attack detection in Cloud of Things.",
+        "tech": [
+          "Autoencoders",
+          "Reinforcement Learning",
+          "Cybersecurity"
+        ],
+        "link": null,
+        "img": "/img/AE-RAE.png"
+      },
+      {
+        "title": "Elise.Automate",
+        "description": "Business task automation tool deployed in major institutions like Crédit Agricole, SNCF, and Banque de France.",
+        "tech": [
+          "C#",
+          "Automation",
+          "API Integration"
+        ],
+        "link": null,
+        "img": "/img/Automate.png"
+      },
+      {
+        "title": "Elise.BI",
+        "description": "Power BI dashboards for document tracking and real-time productivity monitoring for large corporate clients.",
+        "tech": [
+          "Power BI",
+          "Data Analysis",
+          "SQL"
+        ],
+        "link": null,
+        "img": "/img/BI.png"
+      },
+      {
+        "title": "Musify",
+        "description": "Social music platform with PHP MVC architecture and admin panel for user/content management.",
+        "tech": [
+          "PHP",
+          "MVC",
+          "MySQL"
+        ],
+        "link": "https://github.com/WaelGhazel/Musify",
+        "img": "/img/musify.png"
+      }
+    ]
+  },
+  "services": {
+    "title": "Services",
+    "description": "I provide expertise in Business Analysis, AI Solutions, Data Analysis, and Research Collaboration.",
+    "items": [
+      {
+        "title": "Business Analysis",
+        "description": "Bridging business needs with technical solutions to optimize processes."
+      },
+      {
+        "title": "AI Solutions",
+        "description": "Design and development of intelligent systems tailored to business needs."
+      },
+      {
+        "title": "Data Analysis",
+        "description": "Extracting meaningful insights from complex datasets to drive strategy."
+      },
+      {
+        "title": "Research Collaboration",
+        "description": "Partnering on academic and industrial research projects in AI and Cybersecurity."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Let's connect and build the future",
+    "email": "Email",
+    "phone": "Call",
+    "whatsapp": "WhatsApp"
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "hero": {
+    "name": "Wael Ghazel",
+    "titles": [
+      "Business Analyst",
+      "Chercheur en IA"
+    ],
+    "statement": "Expert IA & Data | Recherche + Ingénierie Appliquée"
+  },
+  "sidebar": {
+    "nav": {
+      "home": "Accueil",
+      "about": "À propos",
+      "resume": "CV",
+      "skills": "Compétences",
+      "projects": "Projets",
+      "certifications": "Certifications",
+      "services": "Services",
+      "contact": "Contact"
+    }
+  },
+  "about": {
+    "title": "À propos",
+    "description": "Chercheur en Intelligence Artificielle et Cybersécurité, avec une expertise dans les environnements IoT et Cloud. Compétences avérées en apprentissage automatique, analyse de données et conception de systèmes intelligents. Orienté vers la recherche appliquée et théorique, avec l’ambition de contribuer à l’avancement scientifique et au développement de solutions de sécurité adaptatives pour les systèmes distribués.",
+    "subtitle": "Business Analyst & Chercheur en IA",
+    "intro": "Voici une brève introduction me concernant",
+    "details": {
+      "birthday": "28 Avril 2000",
+      "website": "waelghazel.github.io/WaelGhazel",
+      "email": "mohammedwael.ghazel@esen.tn",
+      "age": "25",
+      "degree": "Master",
+      "phone": "+33 7 51 25 89 94",
+      "city": "Remote / International",
+      "status": "Doctorant, Employé à temps plein",
+      "experience": "3+ ans"
+    }
+  },
+  "skills": {
+    "title": "Compétences",
+    "technicalTitle": "Connaissances Techniques",
+    "technical": [
+      {
+        "name": "Python (PyTorch, TensorFlow, Scikit-learn)",
+        "value": 95
+      },
+      {
+        "name": "Modèles IA (Transformers, GANs, Deep RL)",
+        "value": 90
+      },
+      {
+        "name": "NLP & LLM (RAG, Agents)",
+        "value": 88
+      },
+      {
+        "name": "Data Engineering (Talend, ETL/ELT)",
+        "value": 85
+      },
+      {
+        "name": "Bases de données SQL & NoSQL",
+        "value": 92
+      },
+      {
+        "name": "Dév Logiciel (C#, Python, PHP)",
+        "value": 87
+      },
+      {
+        "name": "Data Viz (Power BI, Tableau, Matplotlib)",
+        "value": 90
+      }
+    ],
+    "knowledgeTitle": "Technologies & Outils",
+    "knowledge": [
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-learn",
+      "Pandas",
+      "Numpy",
+      "Ollama",
+      "HuggingFace",
+      "FastAPI",
+      "Django",
+      "Talend",
+      "MySQL",
+      "PostgreSQL",
+      "Power BI",
+      "MetaBase",
+      "Docker",
+      "Git",
+      "CI/CD",
+      "Azure",
+      "Cloud of Things"
+    ]
+  },
+  "resume": {
+    "title": "CV",
+    "summary": {
+      "title": "Résumé",
+      "name": "Wael Ghazel",
+      "description": "Business Analyst axé sur l'IA et Chercheur en IA (Doctorant). Expertise en deep learning, cybersécurité et ingénierie des données. Compétent pour faire le pont entre les besoins métier et les solutions techniques avancées."
+    },
+    "education": {
+      "title": "Éducation",
+      "items": [
+        {
+          "degree": "Doctorat en Intelligence Artificielle & Cybersécurité",
+          "date": "2025 - Présent",
+          "institution": "ENSI",
+          "description": "Recherche axée sur les solutions de sécurité adaptatives pour les systèmes distribués et le Cloud of Things."
+        },
+        {
+          "degree": "Master en Intelligence Artificielle",
+          "date": "2022 - 2024",
+          "institution": "École Supérieure de l'Économie Numérique, Manouba",
+          "description": "Master en Intelligence Artificielle (Recherche) axé sur l'optimisation, le deep learning et le reinforcement learning."
+        },
+        {
+          "degree": "Licence en Business Intelligence",
+          "date": "2019 - 2022",
+          "institution": "École Supérieure de l'Économie Numérique, Manouba",
+          "description": "Cours de spécialisation en analyse de données et business intelligence."
+        }
+      ]
+    },
+    "experience": {
+      "title": "Expérience Professionnelle",
+      "items": [
+        {
+          "title": "Business Analyst",
+          "date": "juin 2023 - Présent",
+          "company": "Neoledge, Lille, FR (Remote)",
+          "bullets": [
+            "Fournir une expertise et estimer les coûts liés aux besoins de traitement.",
+            "Créer des outils d’automatisation en C#.",
+            "Développer et gérer les connexions API pour l’échange de données entre le produit de l’entreprise et les systèmes partenaires.",
+            "Tester les nouvelles extensions du produit afin de garantir leur qualité et leur bon fonctionnement.",
+            "Configurer le produit selon les exigences des clients.",
+            "Gérer et maintenir le produit.",
+            "Assister les clients en diagnostiquant, déboguant et corrigeant les problèmes.",
+            "Créer des tableaux de bord pour aider les clients à prendre des décisions éclairées.",
+            "Travailler avec des bases de données pour la gestion et l’optimisation des données.",
+            "Participer au développement de solutions basées sur LLM et Retrieval Augmented Generation (RAG) pour automatiser l’extraction et la génération de documents métier."
+          ]
+        },
+        {
+          "title": "Stagiaire Business Intelligence",
+          "date": "Fév 2022 - Mai 2022",
+          "company": "MEDIANET, Ariana, TN",
+          "bullets": [
+            "Conception d’un entrepôt de données et développement des flux ETL pour consolider des sources multiples.",
+            "Développement d’outils BI pour le suivi et le pilotage des projets de l’équipe via dashboards dynamiques.",
+            "Automatisation avec Python de scripts pour la collecte, le nettoyage et la préparation des données."
+          ]
+        }
+      ]
+    },
+    "download": {
+      "en": "Télécharger CV (Anglais PDF)",
+      "fr": "Télécharger CV (Français PDF)"
+    }
+  },
+  "certifications": {
+    "title": "Certifications",
+    "items": [
+      {
+        "title": "Mining Quality Prediction Using Machine & Deep Learning",
+        "issuer": "Coursera",
+        "date": "Oct 2022",
+        "link": "https://coursera.org/verify/QEDAW9B7UH2N"
+      },
+      {
+        "title": "Mastering Data Analysis with Pandas",
+        "issuer": "Coursera",
+        "date": "Oct 2022",
+        "link": "https://coursera.org/verify/BN7SAED5PTB6"
+      },
+      {
+        "title": "Python for Data Visualization: Matplotlib & Seaborn",
+        "issuer": "Coursera",
+        "date": "Oct 2022",
+        "link": "https://coursera.org/verify/ZVEWP2VB5NGQ"
+      },
+      {
+        "title": "Deep Learning Specialization",
+        "issuer": "Coursera (DeepLearning.AI)",
+        "date": "En cours",
+        "link": "https://coursera.org/verify/RZY7RXZ2KF27",
+        "details": "Neural Networks and Deep Learning"
+      },
+      {
+        "title": "Certificat Professionnel Google Data Analytics",
+        "issuer": "Google",
+        "date": "Mar 2022",
+        "link": "https://coursera.org/verify/professional-cert/EPV3LFNBUEL6"
+      },
+      {
+        "title": "The Fundamentals Of Digital Marketing",
+        "issuer": "Google",
+        "date": "Oct 2021",
+        "link": "https://learndigital.withgoogle.com/link/1qsdpcedm9s"
+      },
+      {
+        "title": "C for Everyone: Programming Fundamentals",
+        "issuer": "Coursera",
+        "date": "Sep 2020",
+        "link": "https://www.coursera.org/verify/A57V7B8DTRR9"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projets",
+    "items": [
+      {
+        "title": "TalentParse",
+        "description": "Application web IA pour le recrutement intelligent. Extraction d'infos clés de CV via Gemma3 (Ollama) pour le scoring.",
+        "tech": [
+          "Gemma3",
+          "Ollama",
+          "OCR",
+          "Python"
+        ],
+        "link": "https://github.com/WaelGhazel/TalentParse",
+        "img": "/img/TalentParse.png"
+      },
+      {
+        "title": "AE-RAE",
+        "description": "Modèle hybride de sécurité IA combinant Autoencodeurs et Autoencodeurs Renforcés pour la détection d'attaques 0-day.",
+        "tech": [
+          "Autoencodeurs",
+          "Reinforcement Learning",
+          "Cybersécurité"
+        ],
+        "link": null,
+        "img": "/img/AE-RAE.png"
+      },
+      {
+        "title": "Elise.Automate",
+        "description": "Outil d'automatisation des tâches métier déployé dans de grandes institutions (Crédit Agricole, SNCF, Banque de France).",
+        "tech": [
+          "C#",
+          "Automatisation",
+          "Intégration API"
+        ],
+        "link": null,
+        "img": "/img/Automate.png"
+      },
+      {
+        "title": "Elise.BI",
+        "description": "Tableaux de bord Power BI pour le suivi documentaire et la productivité en temps réel.",
+        "tech": [
+          "Power BI",
+          "Analyse de données",
+          "SQL"
+        ],
+        "link": null,
+        "img": "/img/BI.png"
+      },
+      {
+        "title": "Musify",
+        "description": "Plateforme musicale sociale avec architecture MVC en PHP et panneau d'administration.",
+        "tech": [
+          "PHP",
+          "MVC",
+          "MySQL"
+        ],
+        "link": "https://github.com/WaelGhazel/Musify",
+        "img": "/img/musify.png"
+      }
+    ]
+  },
+  "services": {
+    "title": "Services",
+    "description": "Je fournis une expertise en Business Analysis, Solutions IA, Analyse de données et Collaboration de recherche.",
+    "items": [
+      {
+        "title": "Business Analysis",
+        "description": "Faire le pont entre les besoins métier et les solutions techniques pour optimiser les processus."
+      },
+      {
+        "title": "Solutions IA",
+        "description": "Conception et développement de systèmes intelligents adaptés aux besoins métier."
+      },
+      {
+        "title": "Analyse de données",
+        "description": "Extraction d'informations significatives à partir de jeux de données complexes."
+      },
+      {
+        "title": "Collaboration de recherche",
+        "description": "Partenariat sur des projets de recherche académiques et industriels en IA et Cybersécurité."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Connectons-nous et construisons l'avenir",
+    "email": "Email",
+    "phone": "Appel",
+    "whatsapp": "WhatsApp"
+  }
+}
