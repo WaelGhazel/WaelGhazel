@@ -1,10 +1,13 @@
 {
+  "homepage": "https://waelghazel.github.io/WaelGhazel",
   "name": "react-example",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "preview": "vite preview",
     "clean": "rm -rf dist",
