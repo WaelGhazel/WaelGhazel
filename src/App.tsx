@@ -75,7 +75,7 @@ export default function App() {
         <div>
           <div className="flex items-center gap-3 mb-8">
             <img
-              src="/apple-touch-icon.png"
+              src={`${import.meta.env.BASE_URL}/apple-touch-icon.png`}
               alt="Logo"
               className="h-10 w-10 rounded-full object-cover shadow-[0_0_15px_rgba(231,74,59,0.3)]"
               referrerPolicy="no-referrer"
@@ -138,7 +138,7 @@ export default function App() {
       {/* Mobile Header */}
       <header className="fixed top-0 z-50 flex w-full items-center justify-between border-b border-border-glass bg-bg-dark/80 px-6 py-4 backdrop-blur-md md:hidden">
         <div className="flex items-center gap-2">
-          <img src="/apple-touch-icon.png" alt="Logo" className="h-8 w-8 rounded-full object-cover" referrerPolicy="no-referrer" />
+          <img src={`${import.meta.env.BASE_URL}/apple-touch-icon.png`} alt="Logo" className="h-8 w-8 rounded-full object-cover" referrerPolicy="no-referrer" />
           <span className="font-display font-bold">Ghazel</span>
         </div>
         <button onClick={() => setIsMenuOpen(!isMenuOpen)} className="text-white">
@@ -184,7 +184,7 @@ export default function App() {
         <section id="hero" className="relative flex min-h-screen flex-col justify-center px-8 md:px-20 overflow-hidden">
           <div className="absolute inset-0 z-0">
             <img
-              src="/hero-bg.jpg"
+              src={`${import.meta.env.BASE_URL}/hero-bg.jpg`}
               alt="Hero Background"
               className="h-full w-full object-cover object-right md:object-center opacity-40"
               referrerPolicy="no-referrer"
@@ -234,7 +234,7 @@ export default function App() {
               <div className="relative group w-fit">
                 <div className="absolute inset-0 bg-gradient-to-r from-accent to-orange-400 rounded-2xl blur opacity-25 group-hover:opacity-50 transition duration-1000 group-hover:duration-200"></div>
                 <img
-                  src="/profile.jpg"
+                  src={`${import.meta.env.BASE_URL}/profile.jpg`}
                   alt="Profile"
                   className="relative rounded-2xl w-full max-w-[320px] shadow-2xl object-cover aspect-square"
                   referrerPolicy="no-referrer"
@@ -318,7 +318,7 @@ export default function App() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <a
-                href="/CV/WaelGhazelEnglish.pdf"
+                href={`${import.meta.env.BASE_URL}/CV/WaelGhazelEnglish.pdf`}
                 download
                 className="flex w-full items-center justify-between rounded-2xl bg-white/5 border border-white/10 p-6 transition-all hover:bg-accent hover:border-accent group"
               >
@@ -326,7 +326,7 @@ export default function App() {
                 <Download size={20} className="group-hover:translate-y-1 transition-transform" />
               </a>
               <a
-                href="/CV/WaelGhazelFrançais.pdf"
+                href={`${import.meta.env.BASE_URL}/CV/WaelGhazelFrançais.pdf`}
                 download
                 className="flex w-full items-center justify-between rounded-2xl bg-white/5 border border-white/10 p-6 transition-all hover:bg-accent hover:border-accent group"
               >
@@ -387,7 +387,7 @@ export default function App() {
               >
                 <div className="aspect-video w-full overflow-hidden">
                   <img
-                    src={project.img}
+                    src={`${import.meta.env.BASE_URL}${project.img}`}
                     alt={project.title}
                     className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
                     referrerPolicy="no-referrer"
