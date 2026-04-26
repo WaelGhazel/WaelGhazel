@@ -2,7 +2,7 @@
   "hero": {
     "name": "Wael Ghazel",
     "titles": [
-      "Business Analyst",
+      "IT Business Analyst",
       "Chercheur en IA"
     ],
     "statement": "Expert IA & Data | Recherche + Ingénierie Appliquée"
@@ -21,14 +21,14 @@
   },
   "about": {
     "title": "À propos",
-    "description": "Chercheur en Intelligence Artificielle et Cybersécurité, avec une expertise dans les environnements IoT et Cloud. Compétences avérées en apprentissage automatique, analyse de données et conception de systèmes intelligents. Orienté vers la recherche appliquée et théorique, avec l’ambition de contribuer à l’avancement scientifique et au développement de solutions de sécurité adaptatives pour les systèmes distribués.",
-    "subtitle": "Business Analyst & Chercheur en IA",
+    "description": "IT Business Analyst et ingénieur orienté IA, spécialisé dans les systèmes de données en entreprise, l’automatisation des workflows et le traitement intelligent de documents. Expérience dans le développement d’outils d’automatisation en C#, d’intégrations API, de pipelines ETL et de tableaux de bord BI au sein d’environnements ECM à forte volumétrie et données critiques. Forte orientation vers l’IA appliquée au traitement documentaire, incluant l’extraction via OCR et les modèles LLM pour la structuration, classification et automatisation de données non structurées. Capacité à transformer les besoins métiers en solutions scalables et industrialisées améliorant l’efficacité, la qualité des données et la prise de décision en entreprise.",
+    "subtitle": "IT Business Analyst & Chercheur en IA",
     "intro": "Voici une brève introduction me concernant",
     "details": {
       "birthday": "28 Avril 2000",
       "website": "waelghazel.github.io/WaelGhazel",
       "email": "mohammedwael.ghazel@esen.tn",
-      "age": "25",
+      "age": "26",
       "degree": "Master",
       "phone": "+33 7 51 25 89 94",
       "city": "Remote / International",
@@ -126,20 +126,21 @@
       "title": "Expérience Professionnelle",
       "items": [
         {
-          "title": "Business Analyst",
+          "title": "IT Business Analyst",
           "date": "juin 2023 - Présent",
           "company": "Neoledge, Lille, FR (Remote)",
           "bullets": [
-            "Fournir une expertise et estimer les coûts liés aux besoins de traitement.",
-            "Créer des outils d’automatisation en C#.",
-            "Développer et gérer les connexions API pour l’échange de données entre le produit de l’entreprise et les systèmes partenaires.",
-            "Tester les nouvelles extensions du produit afin de garantir leur qualité et leur bon fonctionnement.",
-            "Configurer le produit selon les exigences des clients.",
-            "Gérer et maintenir le produit.",
-            "Assister les clients en diagnostiquant, déboguant et corrigeant les problèmes.",
-            "Créer des tableaux de bord pour aider les clients à prendre des décisions éclairées.",
-            "Travailler avec des bases de données pour la gestion et l’optimisation des données.",
-            "Participer au développement de solutions basées sur LLM et Retrieval Augmented Generation (RAG) pour automatiser l’extraction et la génération de documents métier."
+            "Analyse des besoins métiers, recueil des exigences, spécifications fonctionnelles et techniques, chiffrage pour workflows ECM et besoins clients",
+            "Développement d’outils d’automatisation en C# pour optimiser le traitement documentaire et réduire les opérations manuelles",
+            "Conception et mise en place d’intégrations API entre systèmes clients externes et plateforme ECM",
+            "Configuration et paramétrage des workflows ECM selon besoins et règles métier",
+            "Développement de tableaux de bord BI pour le suivi des performances et de l’utilisation des systèmes",
+            "Traitement de données incluant flux d’import/export, manipulation et optimisation de bases de données",
+            "Tests, validation, débogage et support en production des fonctionnalités et extensions",
+            "Support client : analyse d’incidents, diagnostic et résolution de problèmes en production, maintien de la continuité opérationnelle",
+            "Développement de solutions OCR pour l’extraction et le traitement automatique de documents",
+            "Mise en place de pipelines d’extraction assistés par LLM pour structurer des documents non structurés",
+            "Intégration de modules IA dans les workflows ECM pour classification et indexation automatique"
           ]
         },
         {
@@ -147,9 +148,12 @@
           "date": "Fév 2022 - Mai 2022",
           "company": "MEDIANET, Ariana, TN",
           "bullets": [
-            "Conception d’un entrepôt de données et développement des flux ETL pour consolider des sources multiples.",
-            "Développement d’outils BI pour le suivi et le pilotage des projets de l’équipe via dashboards dynamiques.",
-            "Automatisation avec Python de scripts pour la collecte, le nettoyage et la préparation des données."
+            "Conception et mise en place d’un data warehouse pour centraliser les données issues de plusieurs systèmes de gestion de projets",
+            "Développement de pipelines ETL (Python) pour extraire, nettoyer et transformer des données provenant de sources hétérogènes vers un entrepôt structuré",
+            "Développement de scripts automatisés de traitement de données pour la collecte, le nettoyage et la préparation des données",
+            "Conception et développement de tableaux de bord BI pour le suivi des performances des projets, de la rentabilité et des indicateurs d’avancement",
+            "Mise en place d’un système complet de Business Intelligence incluant ingestion, transformation et visualisation des données",
+            "Développement et déploiement d’une plateforme BI web basée sur Django, permettant un accès centralisé aux dashboards et analyses pour les équipes projet"
           ]
         }
       ]

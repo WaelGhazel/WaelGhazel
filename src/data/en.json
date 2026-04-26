@@ -2,7 +2,7 @@
   "hero": {
     "name": "Wael Ghazel",
     "titles": [
-      "Business Analyst",
+      "IT Business Analyst",
       "AI Researcher"
     ],
     "statement": "AI & Data Expert | Research + Applied Engineering"
@@ -21,14 +21,14 @@
   },
   "about": {
     "title": "About",
-    "description": "Artificial Intelligence and Cybersecurity Researcher, with expertise in IoT and Cloud environments. Proven skills in machine learning, data analysis, and intelligent system design. Oriented towards applied and theoretical research, with the ambition to contribute to scientific advancement and the development of adaptive security solutions for distributed systems.",
+    "description": "IT Business Analyst and AI-oriented engineer focused on enterprise data systems, workflow automation, and intelligent document processing. Experienced in building C# automation tools, API integrations, ETL pipelines, and BI dashboards within large-scale ECM environments handling high-volume, critical data. Strong focus on applied AI for document intelligence, including OCR-based extraction and LLM-driven structuring, classification, and automation of unstructured data. Proven ability to translate business needs into scalable, production-ready solutions improving efficiency, data quality, and decision-making in enterprise systems.",
     "subtitle": "Business Analyst & AI Researcher",
     "intro": "Here is a brief introduction about me",
     "details": {
       "birthday": "28 April 2000",
       "website": "waelghazel.github.io/WaelGhazel",
       "email": "mohammedwael.ghazel@esen.tn",
-      "age": "25",
+      "age": "26",
       "degree": "Master",
       "phone": "+33 7 51 25 89 94",
       "city": "Remote / International",
@@ -126,20 +126,22 @@
       "title": "Professional Experience",
       "items": [
         {
-          "title": "Business Analyst",
+          "title": "IT Business Analyst",
           "date": "Jun 2023 - Present",
           "company": "Neoledge, Lille, FR (Remote)",
           "bullets": [
-            "Providing expertise and cost estimation for processing requirements.",
-            "Creating automation tools in C#.",
-            "Developing and managing API connections between company products and partner systems.",
-            "Testing new product extensions to ensure quality and proper functioning.",
-            "Configuring the product according to client requirements.",
-            "Managing and maintaining the product.",
-            "Assisting clients by diagnosing, debugging, and resolving issues.",
-            "Creating dashboards to support clients in informed decision-making.",
-            "Working with databases for data management and optimization.",
-            "Developing LLM- and RAG-based solutions for automated extraction and generation of business documents."
+            "Business analysis, requirement gathering, technical specification, and effort estimation for enterprise ECM workflows and client needs",
+            "Development of C# automation tools to optimize document processing and reduce manual operations",
+            "Design and implementation of API integrations between external client systems and ECM platform",
+            "Configuration and customization of ECM workflows based on client requirements and business rules",
+            "Development of BI dashboards for monitoring workflow performance and system usage",
+            "Data processing including import/export pipelines, database handling, and optimization",
+            "Testing, validation, debugging, and production support for enterprise workflow features and extensions",
+            "Client support activities including incident analysis, troubleshooting, and resolution of production issues",
+            "Assistance to clients in diagnosing system behavior and ensuring operational continuity",
+            "Development of OCR-based automation tools for document processing and information extraction",
+            "Implementation of LLM-assisted extraction workflows for structuring unstructured business documents",
+            "Integration of AI modules into ECM workflows for document classification and indexing automation"
           ]
         },
         {
@@ -147,9 +149,12 @@
           "date": "Feb 2022 - May 2022",
           "company": "MEDIANET, Ariana, TN",
           "bullets": [
-            "Designing a data warehouse and developing ETL pipelines to consolidate multiple data sources.",
-            "Developing BI tools to track and manage team projects with dynamic dashboards.",
-            "Automating data collection, cleaning, and preparation scripts with Python."
+            "Designed and implemented a data warehouse to centralize data from multiple project management systems",
+            "Built ETL pipelines (Python) to extract, clean, and transform data from heterogeneous sources into a structured warehouse",
+            "Developed automated data processing scripts for data collection, cleaning, and preparation",
+            "Designed and implemented BI dashboards to monitor project performance, profitability, and progress indicators",
+            "Built a full end-to-end Business Intelligence system including data ingestion, transformation, and visualization",
+            "Developed and deployed a web-based BI platform using Django, enabling easy access to dashboards and analytics for project teams"
           ]
         }
       ]
